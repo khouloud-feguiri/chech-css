@@ -1,0 +1,37 @@
+
+li {
+  display: inline;
+  width:auto;
+  overflow: hidden;
+  background-color: rgb(127, 255, 227);
+  direction:ltr;}
+
+h1 {text-align : center ;
+font-size: 30px;
+font-weight: bolder;}
+body{ font-family: "roboto" ;}
+ 
+ .header a{
+ text-decoration: none;
+
+font-size: 20;
+color:black;
+margin: 30px;
+}
+.header{
+  background-color:rgb(127, 246, 255);
+}
+.vidéo { height: 400px;
+width: 1300px ;}
+
+.nav a:hover {background-color: coral};
+.nav a:visited {background-color: rgb(255, 0, 179);}
+div,p {color:rgb(197, 127, 255);
+font: size 50px;px  ;}
+input{background-color: rgb(9, 179, 201);
+  color: black;
+
+margin: 30px;
+}
+.photo{ height: 30px;
+  widh: 30px;px ;}
